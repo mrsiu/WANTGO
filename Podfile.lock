@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Kingfisher (3.6.2)
+  - SnapKit (3.2.0)
+  - UITableView+FDTemplateLayoutCell (1.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - Kingfisher (~> 3.6.2)
+  - SnapKit (~> 3.2.0)
+  - UITableView+FDTemplateLayoutCell (~> 1.6)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Kingfisher: 2c94e72c6830622c71d06adf4ea024c37d316830
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+
+PODFILE CHECKSUM: d7c2b74fbe42eca1b06bbb7159ecae17a33c726c
+
+COCOAPODS: 1.2.0

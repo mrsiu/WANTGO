@@ -1,0 +1,6 @@
+framework module Pods_xiangquTests {
+  umbrella header "Pods-xiangquTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
